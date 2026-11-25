@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:03:42.960Z",
+  "slug": "whippersnappers",
+  "name": "Whippersnappers Early Learning Centre",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Childcare & kindergartens",
+    "niche": "childcare & kindergartens",
+    "group": "Fitness & education"
+  },
+  "contact": {
+    "phone": "+6433252677",
+    "email": "info@whippersnappers.co.nz",
+    "address": "53 Edward St, Lincoln"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/326052250906410"
+  },
+  "about": {
+    "overview": "Whippersnappers Early Learning Centre was established in 2011 in Lincoln and is privately owned and operated. We offer high-quality facilities in a purpose-built centre designed to support children's learning, development and wellbeing.",
+    "tagline": "HOME"
+  },
+  "before": {
+    "url": "http://www.whippersnappers.co.nz/",
+    "domain": "whippersnappers.co.nz",
+    "finalUrl": "https://www.whippersnappers.co.nz/",
+    "title": "HOME",
+    "pages": 12,
+    "score": 45,
+    "assessedAt": "2026-11-13T01:16:08.794Z",
+    "issues": [
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "Title is just \"HOME\"."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "4 of 4 images have no alt text (accessibility and SEO)."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/whippersnappers-early-learning-centre/",
+    "repoUrl": "https://github.com/tova-studio/whippersnappers-early-learning-centre",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:03:42.961Z"
+  }
+}
